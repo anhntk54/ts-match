@@ -12,30 +12,58 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
+    environment:
+      name: ${{ github.ref_name }}
+      url: https://www.npmjs.com/package/@anhtrieunhu/ts-match
     permissions:
-      contents: write  # Để tạo release và tag trên GitHub
-      issues: write    # Để bình luận trên issues
-      pull-requests: write  # Để bình luận trên PR
+      contents: write
+      issues: write
+      pull-requests: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Lấy toàn bộ lịch sử commit để semantic-release phân tích
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'  # Sử dụng Node.js 20 LTS
-          registry-url: 'https://registry.npmjs.org/'  # Đăng ký npm
+          node-version: '20'
+          registry-url: 'https://registry.npmjs.org/'
 
       - name: Install dependencies
-        run: npm ci  # Cài đặt phụ thuộc với package-lock.json
+        run: npm ci
 
       - name: Build TypeScript
-        run: npm run build  # Biên dịch TypeScript sang dist
+        run: npm run build
 
-      - name: Run semantic release
+      - name: Debug Environment and NPM_TOKEN
+        run: |
+          echo "Current branch: ${GITHUB_REF_NAME}"
+          echo "Environment: ${GITHUB_ENV}"
+          echo "NPM_TOKEN is set to: ${NPM_TOKEN}"
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Run semantic-release
+        id: semantic
         run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token mặc định của GitHub Actions
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}  # Token npm từ Secrets
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Extract release version
+        id: extract_version
+        run: |
+          # Lấy tag phiên bản mới nhất từ Git
+          VERSION=$(git describe --tags --abbrev=0 2>/dev/null || echo "1.0.0")
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+        if: success()  # Chỉ chạy nếu semantic-release thành công
+
+      - name: Notify Discord on Release
+        if: success()  # Chỉ chạy khi workflow thành công
+        uses: Ilshidur/action-discord@master
+        with:
+          args: "New version **${{ steps.extract_version.outputs.version }}** of @anhtrieunhu/ts-match has been released! Check it out: https://www.npmjs.com/package/@anhtrieunhu/ts-match"
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
