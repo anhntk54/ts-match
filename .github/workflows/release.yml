@@ -64,6 +64,6 @@ jobs:
         if: success()  # Chỉ chạy khi workflow thành công
         uses: Ilshidur/action-discord@master
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         with:
           args: "New version **${{ steps.extract_version.outputs.version }}** of @anhtrieunhu/ts-match has been released! Check it out: https://www.npmjs.com/package/@anhtrieunhu/ts-match"
