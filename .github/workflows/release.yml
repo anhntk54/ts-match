@@ -46,11 +46,11 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Run semantic-release
-        id: semantic
-        run: npx semantic-release
+        id: semantic_release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: npx semantic-release
 
       - name: Extract release version
         id: extract_version
@@ -63,7 +63,7 @@ jobs:
       - name: Notify Discord on Release
         if: success()  # Chỉ chạy khi workflow thành công
         uses: Ilshidur/action-discord@master
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         with:
           args: "New version **${{ steps.extract_version.outputs.version }}** of @anhtrieunhu/ts-match has been released! Check it out: https://www.npmjs.com/package/@anhtrieunhu/ts-match"
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
