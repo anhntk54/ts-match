@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/anhntk54/ts-match/compare/v2.0.0...v2.1.0) (2025-06-16)
+
+
+### Features
+
+* fix add 2 ([4879271](https://github.com/anhntk54/ts-match/commit/48792710e1084a862b1a548772afea71c9b1ecc5))
+
 # [2.0.0](https://github.com/anhntk54/ts-match/compare/v1.1.0...v2.0.0) (2025-06-16)
 
 
