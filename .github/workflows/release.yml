@@ -38,4 +38,4 @@ jobs:
         run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token mặc định của GitHub Actions
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}  # Token npm từ Secrets
+          NPM_TOKEN: ${{ vars.NPM_TOKEN }}  # Token npm từ Secrets
