@@ -34,11 +34,6 @@ jobs:
       - name: Build TypeScript
         run: npm run build  # Biên dịch TypeScript sang dist
 
-      - name: Debug NPM_TOKEN
-        run: "NPM_TOKEN is set to: ${NPM_TOKEN}"
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-
       - name: Run semantic-release
         run: npx semantic-release
         env:
