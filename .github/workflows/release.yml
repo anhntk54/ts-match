@@ -1,0 +1,41 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+      - alpha
+      - staging
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Để tạo release và tag trên GitHub
+      issues: write    # Để bình luận trên issues
+      pull-requests: write  # Để bình luận trên PR
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Lấy toàn bộ lịch sử commit để semantic-release phân tích
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'  # Sử dụng Node.js 20 LTS
+          registry-url: 'https://registry.npmjs.org/'  # Đăng ký npm
+
+      - name: Install dependencies
+        run: npm ci  # Cài đặt phụ thuộc với package-lock.json
+
+      - name: Build TypeScript
+        run: npm run build  # Biên dịch TypeScript sang dist
+
+      - name: Run semantic-release
+        run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token mặc định của GitHub Actions
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}  # Token npm từ Secrets
