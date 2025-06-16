@@ -4,7 +4,7 @@ exports.add = add;
 exports.subtract = subtract;
 // src/index.ts
 function add(a, b) {
-    return a + b + 1;
+    return a + b;
 }
 function subtract(a, b) {
     return a - b;
