@@ -1,6 +1,6 @@
 {
   "branches": [
-    "main"
+    "main",
     { "name": "dev", "prerelease": "beta" },
     { "name": "alpha", "prerelease": "alpha" },
     { "name": "staging", "prerelease": "beta" }
