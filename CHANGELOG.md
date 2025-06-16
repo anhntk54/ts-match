@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/anhntk54/ts-match/compare/v1.0.0...v1.1.0) (2025-06-16)
+
+
+### Features
+
+* add branch ([f02db8a](https://github.com/anhntk54/ts-match/commit/f02db8a6f209f08cd85bcbb51432ab50ff3f7396))
+* add branch1 ([922452b](https://github.com/anhntk54/ts-match/commit/922452bc837d090fa0b296f9296785e9975d3b6a))
+
 # 1.0.0 (2025-06-16)
 
 
