@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/anhntk54/ts-match/compare/v2.3.0...v2.4.0) (2025-06-16)
+
+
+### Features
+
+* add token 1 DISCORD_WEBHOOK ([5670183](https://github.com/anhntk54/ts-match/commit/56701832f99dd69f98ea5da50f436e7d6e3ee648))
+
 # [2.3.0](https://github.com/anhntk54/ts-match/compare/v2.2.0...v2.3.0) (2025-06-16)
 
 
