@@ -1,3 +1,21 @@
+# [2.3.0](https://github.com/anhntk54/ts-match/compare/v2.2.0...v2.3.0) (2025-06-16)
+
+
+### Features
+
+* add token ([6a349ed](https://github.com/anhntk54/ts-match/commit/6a349ed22d6f2a90389bfdd2555031916e76fe82))
+* add token 1 ([455bc6d](https://github.com/anhntk54/ts-match/commit/455bc6d8b7fe4f61abbe600af81ff7143a91dea6))
+* add token 1 NODE_AUTH_TOKEN ([51e3907](https://github.com/anhntk54/ts-match/commit/51e390775b92320d762ee60d4ccc5d09160ac862))
+* discord info ([707ce43](https://github.com/anhntk54/ts-match/commit/707ce43d298cfecc08286b2e0528c167d18eef39))
+* discord info ([627ea18](https://github.com/anhntk54/ts-match/commit/627ea186a752362c23c0e47b8758238345e6576f))
+
+# [2.2.0](https://github.com/anhntk54/ts-match/compare/v2.1.0...v2.2.0) (2025-06-16)
+
+
+### Features
+
+* TESSTT 123 ([2b230ec](https://github.com/anhntk54/ts-match/commit/2b230ec12b56774dd930a4b8c3c0ba3154b9fdf7))
+
 # [2.1.0](https://github.com/anhntk54/ts-match/compare/v2.0.0...v2.1.0) (2025-06-16)
 
 
