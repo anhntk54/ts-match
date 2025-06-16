@@ -1,3 +1,10 @@
+# [1.2.0-beta.2](https://github.com/anhntk54/ts-match/compare/v1.2.0-beta.1...v1.2.0-beta.2) (2025-06-16)
+
+
+### Bug Fixes
+
+* resolve add ([863da6e](https://github.com/anhntk54/ts-match/commit/863da6e132bbd1596e04a639b73b70063be8c2fb))
+
 # [1.2.0-beta.1](https://github.com/anhntk54/ts-match/compare/v1.1.0...v1.2.0-beta.1) (2025-06-16)
 
 
