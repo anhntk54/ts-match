@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/anhntk54/ts-match/compare/v2.1.0...v2.2.0) (2025-06-16)
+
+
+### Features
+
+* TESSTT 123 ([2b230ec](https://github.com/anhntk54/ts-match/commit/2b230ec12b56774dd930a4b8c3c0ba3154b9fdf7))
+
 # [2.1.0](https://github.com/anhntk54/ts-match/compare/v2.0.0...v2.1.0) (2025-06-16)
 
 
