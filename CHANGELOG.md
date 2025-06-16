@@ -1,3 +1,15 @@
+# [2.0.0-alpha.1](https://github.com/anhntk54/ts-match/compare/v1.2.0-alpha.1...v2.0.0-alpha.1) (2025-06-16)
+
+
+### Features
+
+* fix add ([b9b7b93](https://github.com/anhntk54/ts-match/commit/b9b7b93579d36871a2ee033f5f84542d9b1cf116))
+
+
+### BREAKING CHANGES
+
+* change vesion 1 to 2
+
 # [1.2.0-alpha.1](https://github.com/anhntk54/ts-match/compare/v1.1.0...v1.2.0-alpha.1) (2025-06-16)
 
 
