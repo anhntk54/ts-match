@@ -1,3 +1,10 @@
+# [2.11.0](https://github.com/anhntk54/ts-match/compare/v2.10.0...v2.11.0) (2025-06-17)
+
+
+### Features
+
+*  test pull requaaest233 ([66e0f2e](https://github.com/anhntk54/ts-match/commit/66e0f2ecbbfc88dadb4575c62299ab9502e50abe))
+
 # [2.10.0](https://github.com/anhntk54/ts-match/compare/v2.9.0...v2.10.0) (2025-06-17)
 
 
