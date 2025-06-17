@@ -1,3 +1,10 @@
+# [2.9.0](https://github.com/anhntk54/ts-match/compare/v2.8.0...v2.9.0) (2025-06-17)
+
+
+### Features
+
+*  minor ([a054548](https://github.com/anhntk54/ts-match/commit/a054548e1abf4444b18d7ccf462f15247d032757))
+
 # [2.8.0](https://github.com/anhntk54/ts-match/compare/v2.7.2...v2.8.0) (2025-06-17)
 
 ## [2.7.2](https://github.com/anhntk54/ts-match/compare/v2.7.1...v2.7.2) (2025-06-17)
