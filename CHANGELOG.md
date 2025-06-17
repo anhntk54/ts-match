@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/anhntk54/ts-match/compare/v2.6.0...v2.7.0) (2025-06-17)
+
+
+### Features
+
+* add 311 ([b4ec436](https://github.com/anhntk54/ts-match/commit/b4ec436ee93626b0a31d43229ee65dc14898f4ac))
+
 # [2.6.0](https://github.com/anhntk54/ts-match/compare/v2.5.2...v2.6.0) (2025-06-17)
 
 
