@@ -1,3 +1,10 @@
+# [2.15.0-issue-3.3](https://github.com/anhntk54/ts-match/compare/v2.15.0-issue-3.2...v2.15.0-issue-3.3) (2025-06-17)
+
+
+### Features
+
+*  issue 3122 ([caa0f24](https://github.com/anhntk54/ts-match/commit/caa0f245098d44e723a6d15101a14b38a0c22b74))
+
 # [2.15.0-issue-3.2](https://github.com/anhntk54/ts-match/compare/v2.15.0-issue-3.1...v2.15.0-issue-3.2) (2025-06-17)
 
 
