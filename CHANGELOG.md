@@ -1,3 +1,23 @@
+# [2.4.0-beta.1](https://github.com/anhntk54/ts-match/compare/v2.3.0...v2.4.0-beta.1) (2025-06-16)
+
+
+### Features
+
+* add comment ([4985529](https://github.com/anhntk54/ts-match/commit/498552914af30a9b65e20f15dd44f27b853cc994))
+* add comment ([67fe01f](https://github.com/anhntk54/ts-match/commit/67fe01fa4da644d9671aaa9223e28d3ada205806))
+* add comment ([c1a2c18](https://github.com/anhntk54/ts-match/commit/c1a2c18eea25a687d0284066704a6f5322ca3a2c))
+* add token 1 DISCORD_WEBHOOK ([5670183](https://github.com/anhntk54/ts-match/commit/56701832f99dd69f98ea5da50f436e7d6e3ee648))
+* TESSTT ([37d3450](https://github.com/anhntk54/ts-match/commit/37d3450255d04d5ad2760063ca794e5298e6dace))
+* TEST comment ([ec3ff03](https://github.com/anhntk54/ts-match/commit/ec3ff03a19bfbfc26052417955aa3f66317ea2dd))
+* TEST comment ([c671d38](https://github.com/anhntk54/ts-match/commit/c671d38652f7896b1333e58f8bf493a15d2408af))
+* TEST comment1 ([0a39f4d](https://github.com/anhntk54/ts-match/commit/0a39f4d53447e9d91555ea09cb82d50be27634e8))
+* TEST comment12 ([6aadcb5](https://github.com/anhntk54/ts-match/commit/6aadcb5ae65204256a2a717a4312db20dbf36793))
+* TEST comment12 vars ([4f719f9](https://github.com/anhntk54/ts-match/commit/4f719f9b4c70e3d4ee4f55db4ab1b6268a2a3116))
+* TEST comment12 vars12 ([aac6656](https://github.com/anhntk54/ts-match/commit/aac6656bb8bf5b1d8a4535061d6457c6b12b5935))
+* TEST comment12 vars124 ([6558ec7](https://github.com/anhntk54/ts-match/commit/6558ec783f6db5bffe52319d0cebe5f51a3f4f8a))
+* TEST comment12 vars1241 ([8b49d0f](https://github.com/anhntk54/ts-match/commit/8b49d0fea97c6b3465d57a6b2cf5ad72022ecc5d))
+* test dev ([e9cf0fa](https://github.com/anhntk54/ts-match/commit/e9cf0faa3addcdeae4fdf39e099cffe556f04487))
+
 # [2.3.0](https://github.com/anhntk54/ts-match/compare/v2.2.0...v2.3.0) (2025-06-16)
 
 
