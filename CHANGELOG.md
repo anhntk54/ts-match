@@ -1,3 +1,11 @@
+## [2.5.2-beta.1](https://github.com/anhntk54/ts-match/compare/v2.5.1...v2.5.2-beta.1) (2025-06-17)
+
+
+### Bug Fixes
+
+* add 31 ([b91378f](https://github.com/anhntk54/ts-match/commit/b91378f34e750aac0eb6d76e45bf5c9fd0d32c1f))
+* add negative number check.2 ([b01451f](https://github.com/anhntk54/ts-match/commit/b01451f86777355842caf2b481e94ae30926d852))
+
 ## [2.5.1](https://github.com/anhntk54/ts-match/compare/v2.5.0...v2.5.1) (2025-06-17)
 
 
