@@ -1,3 +1,10 @@
+## [2.5.1](https://github.com/anhntk54/ts-match/compare/v2.5.0...v2.5.1) (2025-06-17)
+
+
+### Bug Fixes
+
+* add negative number check. ([8d62ce1](https://github.com/anhntk54/ts-match/commit/8d62ce1428165e5f578d58591b42ca11e9aacfc6))
+
 # [2.5.0](https://github.com/anhntk54/ts-match/compare/v2.4.0...v2.5.0) (2025-06-17)
 
 
