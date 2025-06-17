@@ -1,3 +1,10 @@
+# [2.8.0-alpha.1](https://github.com/anhntk54/ts-match/compare/v2.7.2...v2.8.0-alpha.1) (2025-06-17)
+
+
+### Features
+
+* TESSTT 12 ([e1d3994](https://github.com/anhntk54/ts-match/commit/e1d3994f6cdf193ff0d841bc8c302c58452c6917))
+
 ## [2.7.2](https://github.com/anhntk54/ts-match/compare/v2.7.1...v2.7.2) (2025-06-17)
 
 
