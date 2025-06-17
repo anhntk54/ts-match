@@ -18,7 +18,8 @@
           { "type": "style", "release": false },
           { "type": "refactor", "release": false },
           { "type": "test", "release": false }
-        ]
+        ],
+        "preset": "conventionalcommits"
       }
     ],
     "@semantic-release/release-notes-generator",
