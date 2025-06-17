@@ -1,3 +1,15 @@
+# [2.6.0](https://github.com/anhntk54/ts-match/compare/v2.5.2...v2.6.0) (2025-06-17)
+
+
+### Bug Fixes
+
+* add 31 ([b91378f](https://github.com/anhntk54/ts-match/commit/b91378f34e750aac0eb6d76e45bf5c9fd0d32c1f))
+
+
+### Features
+
+* add 31 ([6a15015](https://github.com/anhntk54/ts-match/commit/6a1501524bd17c984aaceb72af07281864d28f04))
+
 ## [2.5.2](https://github.com/anhntk54/ts-match/compare/v2.5.1...v2.5.2) (2025-06-17)
 
 
