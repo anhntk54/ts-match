@@ -1,3 +1,10 @@
+# [2.14.0-issue-2.2](https://github.com/anhntk54/ts-match/compare/v2.14.0-issue-2.1...v2.14.0-issue-2.2) (2025-06-17)
+
+
+### Features
+
+*  2222211 ([4e63700](https://github.com/anhntk54/ts-match/commit/4e637002da22081417f19f9a51df16973c577d4b))
+
 # [2.14.0-issue-2.1](https://github.com/anhntk54/ts-match/compare/v2.13.0...v2.14.0-issue-2.1) (2025-06-17)
 
 
