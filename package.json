@@ -1,6 +1,6 @@
 {
   "name": "@anhtrieunhu/ts-match",
-  "version": "2.1.0",
+  "version": "2.7.2",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,7 +17,8 @@
     "commitizen": "^4.3.1",
     "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^24.2.5",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "conventional-changelog-conventionalcommits": "^7.0.2"
   },
   "publishConfig": {
     "access": "public"

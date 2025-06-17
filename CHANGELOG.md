@@ -1,3 +1,152 @@
+## [2.7.2](https://github.com/anhntk54/ts-match/compare/v2.7.1...v2.7.2) (2025-06-17)
+
+
+### Bug Fixes
+
+* add 3111        b"preset": "conventionalcommits" ([e545d04](https://github.com/anhntk54/ts-match/commit/e545d04d6e7b83a31785d10bfec975deaa233d05))
+* add 3111        b"preset": "conventionalcommits" ([6ea0d36](https://github.com/anhntk54/ts-match/commit/6ea0d36d9d0fea2c2e374ba10b81034c68210237))
+
+## [2.7.1](https://github.com/anhntk54/ts-match/compare/v2.7.0...v2.7.1) (2025-06-17)
+
+
+### Bug Fixes
+
+* add 311 ([aead68c](https://github.com/anhntk54/ts-match/commit/aead68ca89f7c4946ea0c564411aa3cd08dbce6a))
+
+# [2.7.0](https://github.com/anhntk54/ts-match/compare/v2.6.0...v2.7.0) (2025-06-17)
+
+
+### Features
+
+* add 311 ([b4ec436](https://github.com/anhntk54/ts-match/commit/b4ec436ee93626b0a31d43229ee65dc14898f4ac))
+
+# [2.6.0](https://github.com/anhntk54/ts-match/compare/v2.5.2...v2.6.0) (2025-06-17)
+
+
+### Bug Fixes
+
+* add 31 ([b91378f](https://github.com/anhntk54/ts-match/commit/b91378f34e750aac0eb6d76e45bf5c9fd0d32c1f))
+
+
+### Features
+
+* add 31 ([6a15015](https://github.com/anhntk54/ts-match/commit/6a1501524bd17c984aaceb72af07281864d28f04))
+
+## [2.5.2](https://github.com/anhntk54/ts-match/compare/v2.5.1...v2.5.2) (2025-06-17)
+
+
+### Bug Fixes
+
+* add negative number check.2 ([b01451f](https://github.com/anhntk54/ts-match/commit/b01451f86777355842caf2b481e94ae30926d852))
+
+## [2.5.1](https://github.com/anhntk54/ts-match/compare/v2.5.0...v2.5.1) (2025-06-17)
+
+
+### Bug Fixes
+
+* add negative number check. ([8d62ce1](https://github.com/anhntk54/ts-match/commit/8d62ce1428165e5f578d58591b42ca11e9aacfc6))
+
+# [2.5.0](https://github.com/anhntk54/ts-match/compare/v2.4.0...v2.5.0) (2025-06-17)
+
+
+### Bug Fixes
+
+* add negative number check. ([6c2efe9](https://github.com/anhntk54/ts-match/commit/6c2efe948c557ffe3f3519fe3d95ff1095bb0ccb))
+* function add ([6134ef6](https://github.com/anhntk54/ts-match/commit/6134ef6b60aa2f262d656da3c7889742a9e471d5))
+* function add1 ([69a042d](https://github.com/anhntk54/ts-match/commit/69a042dc6a9f8d77eb99bd054dcefd7872c60f88))
+* function add122 ([cf73586](https://github.com/anhntk54/ts-match/commit/cf73586fa78f957e7de6cd6db265587beab8750a))
+* function add122 ([45c2ca7](https://github.com/anhntk54/ts-match/commit/45c2ca7358180b5f5f644939f50b841324e706fc))
+
+
+### Features
+
+* add comment ([4985529](https://github.com/anhntk54/ts-match/commit/498552914af30a9b65e20f15dd44f27b853cc994))
+* add comment ([67fe01f](https://github.com/anhntk54/ts-match/commit/67fe01fa4da644d9671aaa9223e28d3ada205806))
+* add comment ([c1a2c18](https://github.com/anhntk54/ts-match/commit/c1a2c18eea25a687d0284066704a6f5322ca3a2c))
+* TESSTT ([37d3450](https://github.com/anhntk54/ts-match/commit/37d3450255d04d5ad2760063ca794e5298e6dace))
+* TEST comment ([ec3ff03](https://github.com/anhntk54/ts-match/commit/ec3ff03a19bfbfc26052417955aa3f66317ea2dd))
+* TEST comment ([c671d38](https://github.com/anhntk54/ts-match/commit/c671d38652f7896b1333e58f8bf493a15d2408af))
+* TEST comment1 ([0a39f4d](https://github.com/anhntk54/ts-match/commit/0a39f4d53447e9d91555ea09cb82d50be27634e8))
+* TEST comment12 ([6aadcb5](https://github.com/anhntk54/ts-match/commit/6aadcb5ae65204256a2a717a4312db20dbf36793))
+* TEST comment12 vars ([4f719f9](https://github.com/anhntk54/ts-match/commit/4f719f9b4c70e3d4ee4f55db4ab1b6268a2a3116))
+* TEST comment12 vars12 ([aac6656](https://github.com/anhntk54/ts-match/commit/aac6656bb8bf5b1d8a4535061d6457c6b12b5935))
+* TEST comment12 vars124 ([6558ec7](https://github.com/anhntk54/ts-match/commit/6558ec783f6db5bffe52319d0cebe5f51a3f4f8a))
+* TEST comment12 vars1241 ([8b49d0f](https://github.com/anhntk54/ts-match/commit/8b49d0fea97c6b3465d57a6b2cf5ad72022ecc5d))
+* test dev ([e9cf0fa](https://github.com/anhntk54/ts-match/commit/e9cf0faa3addcdeae4fdf39e099cffe556f04487))
+
+# [2.4.0-beta.6](https://github.com/anhntk54/ts-match/compare/v2.4.0-beta.5...v2.4.0-beta.6) (2025-06-17)
+
+
+### Bug Fixes
+
+* add negative number check. ([6c2efe9](https://github.com/anhntk54/ts-match/commit/6c2efe948c557ffe3f3519fe3d95ff1095bb0ccb))
+
+# [2.4.0-beta.5](https://github.com/anhntk54/ts-match/compare/v2.4.0-beta.4...v2.4.0-beta.5) (2025-06-17)
+
+
+### Bug Fixes
+
+* function add122 ([cf73586](https://github.com/anhntk54/ts-match/commit/cf73586fa78f957e7de6cd6db265587beab8750a))
+
+# [2.4.0-beta.4](https://github.com/anhntk54/ts-match/compare/v2.4.0-beta.3...v2.4.0-beta.4) (2025-06-17)
+
+
+### Bug Fixes
+
+* function add122 ([45c2ca7](https://github.com/anhntk54/ts-match/commit/45c2ca7358180b5f5f644939f50b841324e706fc))
+
+# [2.4.0-beta.3](https://github.com/anhntk54/ts-match/compare/v2.4.0-beta.2...v2.4.0-beta.3) (2025-06-17)
+
+
+### Bug Fixes
+
+* function add1 ([69a042d](https://github.com/anhntk54/ts-match/commit/69a042dc6a9f8d77eb99bd054dcefd7872c60f88))
+
+# [2.4.0-beta.2](https://github.com/anhntk54/ts-match/compare/v2.4.0-beta.1...v2.4.0-beta.2) (2025-06-17)
+
+
+### Bug Fixes
+
+* function add ([6134ef6](https://github.com/anhntk54/ts-match/commit/6134ef6b60aa2f262d656da3c7889742a9e471d5))
+
+# [2.4.0-beta.1](https://github.com/anhntk54/ts-match/compare/v2.3.0...v2.4.0-beta.1) (2025-06-16)
+
+
+### Features
+
+* add comment ([4985529](https://github.com/anhntk54/ts-match/commit/498552914af30a9b65e20f15dd44f27b853cc994))
+* add comment ([67fe01f](https://github.com/anhntk54/ts-match/commit/67fe01fa4da644d9671aaa9223e28d3ada205806))
+* add comment ([c1a2c18](https://github.com/anhntk54/ts-match/commit/c1a2c18eea25a687d0284066704a6f5322ca3a2c))
+* add token 1 DISCORD_WEBHOOK ([5670183](https://github.com/anhntk54/ts-match/commit/56701832f99dd69f98ea5da50f436e7d6e3ee648))
+* TESSTT ([37d3450](https://github.com/anhntk54/ts-match/commit/37d3450255d04d5ad2760063ca794e5298e6dace))
+* TEST comment ([ec3ff03](https://github.com/anhntk54/ts-match/commit/ec3ff03a19bfbfc26052417955aa3f66317ea2dd))
+* TEST comment ([c671d38](https://github.com/anhntk54/ts-match/commit/c671d38652f7896b1333e58f8bf493a15d2408af))
+* TEST comment1 ([0a39f4d](https://github.com/anhntk54/ts-match/commit/0a39f4d53447e9d91555ea09cb82d50be27634e8))
+* TEST comment12 ([6aadcb5](https://github.com/anhntk54/ts-match/commit/6aadcb5ae65204256a2a717a4312db20dbf36793))
+* TEST comment12 vars ([4f719f9](https://github.com/anhntk54/ts-match/commit/4f719f9b4c70e3d4ee4f55db4ab1b6268a2a3116))
+* TEST comment12 vars12 ([aac6656](https://github.com/anhntk54/ts-match/commit/aac6656bb8bf5b1d8a4535061d6457c6b12b5935))
+* TEST comment12 vars124 ([6558ec7](https://github.com/anhntk54/ts-match/commit/6558ec783f6db5bffe52319d0cebe5f51a3f4f8a))
+* TEST comment12 vars1241 ([8b49d0f](https://github.com/anhntk54/ts-match/commit/8b49d0fea97c6b3465d57a6b2cf5ad72022ecc5d))
+* test dev ([e9cf0fa](https://github.com/anhntk54/ts-match/commit/e9cf0faa3addcdeae4fdf39e099cffe556f04487))
+
+# [2.3.0](https://github.com/anhntk54/ts-match/compare/v2.2.0...v2.3.0) (2025-06-16)
+
+
+### Features
+
+* add token ([6a349ed](https://github.com/anhntk54/ts-match/commit/6a349ed22d6f2a90389bfdd2555031916e76fe82))
+* add token 1 ([455bc6d](https://github.com/anhntk54/ts-match/commit/455bc6d8b7fe4f61abbe600af81ff7143a91dea6))
+* add token 1 NODE_AUTH_TOKEN ([51e3907](https://github.com/anhntk54/ts-match/commit/51e390775b92320d762ee60d4ccc5d09160ac862))
+* discord info ([707ce43](https://github.com/anhntk54/ts-match/commit/707ce43d298cfecc08286b2e0528c167d18eef39))
+* discord info ([627ea18](https://github.com/anhntk54/ts-match/commit/627ea186a752362c23c0e47b8758238345e6576f))
+
+# [2.2.0](https://github.com/anhntk54/ts-match/compare/v2.1.0...v2.2.0) (2025-06-16)
+
+
+### Features
+
+* TESSTT 123 ([2b230ec](https://github.com/anhntk54/ts-match/commit/2b230ec12b56774dd930a4b8c3c0ba3154b9fdf7))
+
 # [2.1.0](https://github.com/anhntk54/ts-match/compare/v2.0.0...v2.1.0) (2025-06-16)
 
 
