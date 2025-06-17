@@ -1,3 +1,10 @@
+# [2.4.0-beta.3](https://github.com/anhntk54/ts-match/compare/v2.4.0-beta.2...v2.4.0-beta.3) (2025-06-17)
+
+
+### Bug Fixes
+
+* function add1 ([69a042d](https://github.com/anhntk54/ts-match/commit/69a042dc6a9f8d77eb99bd054dcefd7872c60f88))
+
 # [2.4.0-beta.2](https://github.com/anhntk54/ts-match/compare/v2.4.0-beta.1...v2.4.0-beta.2) (2025-06-17)
 
 
