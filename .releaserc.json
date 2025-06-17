@@ -11,6 +11,7 @@
       {
         "releaseRules": [
           { "type": "feat", "release": "minor" },
+          { "type": "minor", "release": "minor" },
           { "type": "fix", "release": "patch" },
           { "type": "BREAKING CHANGE", "release": "major" },
           { "type": "docs", "release": "patch" },
