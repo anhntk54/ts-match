@@ -7,6 +7,12 @@ on:
       - dev
       - alpha
       - staging
+  pull_request:
+    branches:
+      - main
+      - dev
+      - alpha
+      - staging
 
 jobs:
   release:
