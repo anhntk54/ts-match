@@ -1,3 +1,10 @@
+# [2.4.0-beta.5](https://github.com/anhntk54/ts-match/compare/v2.4.0-beta.4...v2.4.0-beta.5) (2025-06-17)
+
+
+### Bug Fixes
+
+* function add122 ([cf73586](https://github.com/anhntk54/ts-match/commit/cf73586fa78f957e7de6cd6db265587beab8750a))
+
 # [2.4.0-beta.4](https://github.com/anhntk54/ts-match/compare/v2.4.0-beta.3...v2.4.0-beta.4) (2025-06-17)
 
 
