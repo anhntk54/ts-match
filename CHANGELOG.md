@@ -1,3 +1,11 @@
+## [2.7.2](https://github.com/anhntk54/ts-match/compare/v2.7.1...v2.7.2) (2025-06-17)
+
+
+### Bug Fixes
+
+* add 3111        b"preset": "conventionalcommits" ([e545d04](https://github.com/anhntk54/ts-match/commit/e545d04d6e7b83a31785d10bfec975deaa233d05))
+* add 3111        b"preset": "conventionalcommits" ([6ea0d36](https://github.com/anhntk54/ts-match/commit/6ea0d36d9d0fea2c2e374ba10b81034c68210237))
+
 ## [2.7.1](https://github.com/anhntk54/ts-match/compare/v2.7.0...v2.7.1) (2025-06-17)
 
 
