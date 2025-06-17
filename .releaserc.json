@@ -1,10 +1,10 @@
 {
   "branches": [
     "main",
-    { "channel": "dev", "type": "prerelease", "name": "dev", "prerelease": true },
-        { "channel": "alpha", "type": "prerelease", "name": "alpha", "prerelease": true },
-        { "channel": "issue-2", "type": "prerelease", "name": "issue-2", "prerelease": true }
-
+    { "name": "dev", "prerelease": "beta" },
+    { "name": "alpha", "prerelease": "alpha" },
+    { "name": "staging", "prerelease": "beta" },
+    { "channel": "issue-2", "type": "prerelease", "name": "issue-2", "prerelease": true }
   ],
   "plugins": [
     [
