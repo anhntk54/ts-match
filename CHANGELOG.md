@@ -1,3 +1,10 @@
+# [2.8.0-alpha.2](https://github.com/anhntk54/ts-match/compare/v2.8.0-alpha.1...v2.8.0-alpha.2) (2025-06-17)
+
+
+### Bug Fixes
+
+*  minor ([253bbfd](https://github.com/anhntk54/ts-match/commit/253bbfd3e9f604239ba9e3da65b6b89fc013a8d2))
+
 # [2.8.0-alpha.1](https://github.com/anhntk54/ts-match/compare/v2.7.2...v2.8.0-alpha.1) (2025-06-17)
 
 
