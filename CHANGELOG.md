@@ -1,3 +1,10 @@
+# [2.15.0-issue-3.1](https://github.com/anhntk54/ts-match/compare/v2.14.0...v2.15.0-issue-3.1) (2025-06-17)
+
+
+### Features
+
+*  issue 3 ([cba3966](https://github.com/anhntk54/ts-match/commit/cba3966ce2b9019453293a2d21f7b56402da9d98))
+
 # [2.14.0](https://github.com/anhntk54/ts-match/compare/v2.13.0...v2.14.0) (2025-06-17)
 
 
