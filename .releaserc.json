@@ -4,7 +4,8 @@
     { "name": "dev", "prerelease": "beta" },
     { "name": "alpha", "prerelease": "alpha" },
     { "name": "staging", "prerelease": "beta" },
-    { "channel": "issue-2", "type": "prerelease", "name": "issue-2", "prerelease": true }
+    { "channel": "issue-2", "type": "prerelease", "name": "issue-2", "prerelease": true },
+    { "channel": "issue-3", "type": "prerelease", "name": "issue-3", "prerelease": true }
   ],
   "plugins": [
     [
