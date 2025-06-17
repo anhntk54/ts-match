@@ -1,3 +1,12 @@
+# [2.10.0](https://github.com/anhntk54/ts-match/compare/v2.9.0...v2.10.0) (2025-06-17)
+
+
+### Features
+
+*  test pull request ([4eca9fe](https://github.com/anhntk54/ts-match/commit/4eca9fee683250fdf9ba1d7e80219e27b33e7232))
+*  test pull request ([6a5cf1c](https://github.com/anhntk54/ts-match/commit/6a5cf1ceca788ac8ac8a65137be80d90fdd24722))
+*  test pull request233 ([7bac705](https://github.com/anhntk54/ts-match/commit/7bac7058d5b29e2fb63062998fe383911e31ca23))
+
 # [2.9.0](https://github.com/anhntk54/ts-match/compare/v2.8.0...v2.9.0) (2025-06-17)
 
 
