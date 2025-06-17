@@ -1,3 +1,10 @@
+## [2.7.2-beta.2](https://github.com/anhntk54/ts-match/compare/v2.7.2-beta.1...v2.7.2-beta.2) (2025-06-17)
+
+
+### Bug Fixes
+
+* add 3111 22 ([b762c9e](https://github.com/anhntk54/ts-match/commit/b762c9eb9530cc6e9bcf301de82a97c762dc81dd))
+
 ## [2.7.2-beta.1](https://github.com/anhntk54/ts-match/compare/v2.7.1...v2.7.2-beta.1) (2025-06-17)
 
 
