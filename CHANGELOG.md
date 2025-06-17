@@ -1,3 +1,15 @@
+# [2.14.0](https://github.com/anhntk54/ts-match/compare/v2.13.0...v2.14.0) (2025-06-17)
+
+
+### Features
+
+*  222 ([91b5d4b](https://github.com/anhntk54/ts-match/commit/91b5d4b49f1d08bd64f0541d04e108a1bd246509))
+*  2222 ([94c669a](https://github.com/anhntk54/ts-match/commit/94c669a8a2bc7aa62ccaeeef390c13651278ecfe))
+*  22222 ([04b1a6a](https://github.com/anhntk54/ts-match/commit/04b1a6af06fa3ecdf5400cdb738c8d4b6cf2a6c0))
+*  222221 ([cce00ad](https://github.com/anhntk54/ts-match/commit/cce00ad5b3cc1fe0586dafa39653f2e65d5aa36b))
+*  2222211 ([4e63700](https://github.com/anhntk54/ts-match/commit/4e637002da22081417f19f9a51df16973c577d4b))
+*  đổi tag ([06372c3](https://github.com/anhntk54/ts-match/commit/06372c3674ccaa0b8609b7f095f886932a1aa3cc))
+
 # [2.14.0-issue-2.3](https://github.com/anhntk54/ts-match/compare/v2.14.0-issue-2.2...v2.14.0-issue-2.3) (2025-06-17)
 
 
