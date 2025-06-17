@@ -1,3 +1,5 @@
+# [2.8.0](https://github.com/anhntk54/ts-match/compare/v2.7.2...v2.8.0) (2025-06-17)
+
 ## [2.7.2](https://github.com/anhntk54/ts-match/compare/v2.7.1...v2.7.2) (2025-06-17)
 
 
