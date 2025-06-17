@@ -3,7 +3,8 @@
     "main",
     { "name": "dev", "prerelease": "beta" },
     { "name": "alpha", "prerelease": "alpha" },
-    { "name": "staging", "prerelease": "beta" }
+    { "name": "staging", "prerelease": "beta" },
+    { "channel": "issue-2", "type": "prerelease", "name": "issue-2", "prerelease": true }
   ],
   "plugins": [
     [
@@ -11,6 +12,7 @@
       {
         "releaseRules": [
           { "type": "feat", "release": "minor" },
+          { "type": "minor", "release": "minor" },
           { "type": "fix", "release": "patch" },
           { "type": "BREAKING CHANGE", "release": "major" },
           { "type": "docs", "release": "patch" },
