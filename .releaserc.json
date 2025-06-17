@@ -6,8 +6,9 @@
     { "name": "staging", "prerelease": "beta" }
   ],
   "plugins": [
-    "@semantic-release/commit-analyzer",
-    {
+    [
+      "@semantic-release/commit-analyzer",
+      {
         "releaseRules": [
           { "type": "feat", "release": "minor" },
           { "type": "fix", "release": "patch" },
@@ -18,7 +19,8 @@
           { "type": "refactor", "release": false },
           { "type": "test", "release": false }
         ]
-      },
+      }
+    ],
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     [
