@@ -1,6 +1,6 @@
 {
   "name": "@anhtrieunhu/ts-match",
-  "version": "2.14.0-issue-2.2",
+  "version": "2.14.0-issue-2.3",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
